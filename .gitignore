@@ -26,7 +26,7 @@
 # Runtime folder created by UiPath to store screenshots captured during exceptions.
 # Contents are environment-specific and regenerated on each run.
 # Safe to ignore.
- /Exception_Screenshots/
+/Exception_Screenshots/
 
 ##################################
 ### OS / System Files
@@ -90,3 +90,10 @@ out/
 # cmake-build-*/
 # - CMake build directories (used by some JetBrains IDEs)
 cmake-build-*/
+
+/Data/*
+!/Data/Config.xlsx
+
+/.storage/
+/.autopilot/
+/.screenshots/
