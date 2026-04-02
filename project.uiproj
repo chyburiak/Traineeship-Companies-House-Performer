@@ -1,0 +1,6 @@
+{
+  "Name": "Companies House Performer",
+  "ProjectType": "Process",
+  "Description": "Companies House Performer",
+  "MainFile": "Main.xaml"
+}
